@@ -1,0 +1,15 @@
+{
+    "name": "MyReactNativeApp",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "react-native start"
+    },
+    "dependencies": {
+        "@react-native/metro-config": "^0.72.11",
+        "@types/react": "^18.2.20",
+        "@types/react-native": "^0.72.2",
+        "react": "^18.2.0",
+        "react-native": "^0.72.3"
+    }
+}
